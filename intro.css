@@ -1,0 +1,25 @@
+body
+{
+    background-color: burlywood;
+    color: white;
+}
+img{
+    height: 100px;
+    width: 100px;
+}
+button
+{
+    height: 30px;
+    width: 100px;
+    background-color: white;
+    color: burlywood;
+    border-width: 0px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+h4{
+    font-family: 'Rubik', sans-serif;
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
